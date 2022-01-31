@@ -31,14 +31,3 @@ class App extends Component {
 
 export default App;
 
-{
-  /* <Link to="/about">About</Link>
-          <Link to="/market">market</Link>
-          <Link to="/product">product</Link>
-          <Link to="/form">form</Link>
-          <Routes>
-            <Route path="/market" element={<Market />} />
-            <Route path="/about" element={<About />} />
-            <Route path="/form" element={<Form />} />
-          </Routes> */
-}
